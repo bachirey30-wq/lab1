@@ -1,0 +1,24 @@
+# Assembler / linker output
+*.obj
+*.o
+*.exe
+*.com
+*.bin
+*.lst
+*.map
+*.sym
+*.OBJ
+*.EXE
+*.COM
+
+# EMU8086 artefacts
+*.exe~
+*.bin~
+*_.asm
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp

@@ -1,0 +1,16 @@
+name: Submission structure check
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  structure:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required files
+        run: |
+          chmod +x scripts/check_submission.sh
+          ./scripts/check_submission.sh
