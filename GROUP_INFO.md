@@ -10,7 +10,7 @@
    
     
    
-  *Replace every `[fill in]` with your real data and keep the table layout. Do* ***not*** *edit Part 3: they are reserved for the instructor.*  
+  *Replace every placeholder with your real data and keep the table layout. Do* ***not*** *edit Part 3: they are reserved for the instructor.*  
    
  **Part 1 — Group members (أعضاء المجموعة)**  
   
